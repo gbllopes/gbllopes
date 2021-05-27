@@ -1,17 +1,7 @@
 
-**<img src="https://raw.githubusercontent.com/jadilson12/jadilson12/master/assets/hi.gif" width="25"> Hi! I'm Vinicius Feitosa da Silva (@vinnyfs89)**
-
-### About me:
-
-- 💼 I am currently working acting as Solutions Architect, Full Stack Software Engineer and DevOps culture enthusiast
-- 👨‍💻 I work with technology since 2008
-- 🎓 Graduated in Information Systems with specialization in web systems development
-- 🇧🇷 Live in Brazil
-
 ### Meet me:
 
-
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/vinnyfs89) 
+<!--[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/vinnyfs89) 
 [![Gitlab](http://img.shields.io/badge/-Gitlab-388e3c?style=for-the-badge&logo=Gitlab&logoColor=white)](https://gitlab.com/vinnyfs89) 
 [![Bitbucket](http://img.shields.io/badge/-Bitbucket-006db3?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/vinnyfs89) 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vinnyfs89) 
@@ -22,23 +12,15 @@
 [![Twitch](http://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/vinnyfs89)
 [![Telegram](http://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/vinnyfs89)
 [![RSS](http://img.shields.io/badge/-RSS-FFA500?style=for-the-badge&logo=RSS&logoColor=white)](https://github.com/vinnyfs89.atom)
-
+-->
 
 ### Technologies 
 
 <img height="25" src="https://img.shields.io/badge/docker-33adff.svg?&style=for-the-badge&logo=docker&logoColor=white"></img>
-<img height="25" src="https://img.shields.io/badge/rancher-0075A8.svg?&style=for-the-badge&logo=rancher&logoColor=white"></img>
-<img height="25" src="https://img.shields.io/badge/kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"></img>
-[<img height="25" src="https://img.shields.io/badge/Swarm-FFA633.svg?&style=for-the-badge&logo=Swarm&logoColor=white"></img>](https://docs.docker.com/get-started/swarm-deploy/)
-<img height="25" src="https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white"></img>
-<img height="25" src="https://img.shields.io/badge/SonarQube-4E9BCD.svg?&style=for-the-badge&logo=SonarQube&logoColor=white"></img>
-<img height="25" src="https://img.shields.io/badge/Sentry-FB4226.svg?&style=for-the-badge&logo=Sentry&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/Gitlab-388e3c.svg?style=for-the-badge&logo=Gitlab&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=Github&logoColor=white"></img>
-<img height="25" src="https://img.shields.io/badge/-Bitbucket-006db3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/Vercel-181717.svg?style=for-the-badge&logo=Vercel&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/Heroku-430098.svg?&style=for-the-badge&logo=Heroku&logoColor=white"></img>
-<img height="25" src="https://img.shields.io/badge/-Travis-purple.svg?&style=for-the-badge&logo=Travis&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/ReactiveX-B7178C.svg?&style=for-the-badge&logo=ReactiveX&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></img> 
@@ -83,7 +65,7 @@
 <img height="25" src="https://img.shields.io/badge/Arduino-00979D.svg?&style=for-the-badge&logo=Arduino&logoColor=white"></img>
 
 ---
-
+<!--
 <p align="center">
   <a href="https://github.com/vinnyfs89/github-readme-stats">
     <img
@@ -99,4 +81,4 @@
     />
   </a>
 </p>
-
+-->
