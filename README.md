@@ -1,7 +1,7 @@
 
 Welcome to my profile!
 
-### Meet me:
+<!-- ### Meet me: -->
 
 <!--[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/vinnyfs89) 
 [![Gitlab](http://img.shields.io/badge/-Gitlab-388e3c?style=for-the-badge&logo=Gitlab&logoColor=white)](https://gitlab.com/vinnyfs89) 
