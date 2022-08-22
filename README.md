@@ -17,7 +17,8 @@ Welcome to my profile!
 -->
 
 ### Technologies 
-
+<img height="25" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/docker-33adff.svg?&style=for-the-badge&logo=docker&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/Gitlab-388e3c.svg?style=for-the-badge&logo=Gitlab&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=Github&logoColor=white"></img>
